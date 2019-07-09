@@ -1,3 +1,2 @@
-Hello Worlds
-
-Some Changes
+Hello Worlds.
+This is now my project
